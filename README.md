@@ -1,0 +1,11 @@
+# Webpack的最基本配置
+---
+- 包含基本的webpack配置
+- 包含两个script：`dev`、`build`
+- 包含sass打包功能
+- 包含自动热更新
+- webpack版本是4
+- `npm i`
+- `npm run dev`
+- `npm run build` 
+- 欢迎使用
